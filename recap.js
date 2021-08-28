@@ -24,6 +24,7 @@ const biggest = maxNumber();
 
 // No-3 templete strings
 const myNotes1 = `I am mojnu of ${hubby} . I dont have a laili.`
+//ekhane dynamic vabe (hubby & phone) name er variable ta bosanu hoiche..
 const myNotes = `I am mojnu of ${hubby} . I dont have a ${phone}.`
 console.log(myNotes1);
 console.log(myNotes);

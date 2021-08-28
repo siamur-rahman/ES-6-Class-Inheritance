@@ -35,11 +35,11 @@ const company = {
    web: { work: 'website development', employee: 22, framework: 'react' }
 }
 
-// system-1....................
+// /////////////system-1....................
 // const work = company.web.work;
 // const framework = company.web.framework;
 
-// system-2 (short).......................
+// //////////system-2 (short).....................
 const { work, framework } = company.web;
 const { food } = company.Ceo;
 
