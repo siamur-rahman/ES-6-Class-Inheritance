@@ -27,7 +27,7 @@ const output2 = [];
 const doubleIt = number => number * 2;
 
 for (const number of numbers) {
-   const result = doubleIt(number);
+   const result = doubleIt(number); //
    output2.push(result);
 }
 console.log(output2);*/

@@ -6,7 +6,7 @@ class Support {
    startSession() {
       console.log('start a support session');
 
-      /////////////////////////////////////////comment//////////////////////////////////////eta(startSession) ekta function(class er vitore function likha zai tobe  function keyword likha zabe na...sorasori function er nam likha lagbe///Suport t aekta class)
+      /////////////////////////////////////////comment//////////////////////////////////////eta(startSession) ekta function(class er vitore function likha zai tobe  function keyword likha zabe na...sorasori function er nam likha lagbe///Suport ta ekta class)
       ////////////////////////////////////////comment///////////////////////////////
    }
 }
